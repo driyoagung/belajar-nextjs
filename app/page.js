@@ -1,3 +1,3 @@
 function dia() {
-  alert("Aku tidak terllau berugna ");
+  alert("Aku adalah yin dan tidak akan berubah apapun yang terjadi ");
 }
